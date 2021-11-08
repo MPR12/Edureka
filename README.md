@@ -1,6 +1,5 @@
 Module 2 – File System Module and Express.js
  
-© B r a i n 4 c e E d u c a t i o n S o l u t i o n s P v t . L t d Page 1
 1: Fs Operations With Yargs
 Create an application with following features:
 1) You need to write in file using fs module and for every write operation you need to create a new file
