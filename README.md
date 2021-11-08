@@ -1,2 +1,13 @@
-# Edureka
-Edureka Angular Training
+Module 2 – File System Module and Express.js
+ 
+© B r a i n 4 c e E d u c a t i o n S o l u t i o n s P v t . L t d Page 1
+1: Fs Operations With Yargs
+Create an application with following features:
+1) You need to write in file using fs module and for every write operation you need to create a new file
+2) You must take input from the user as filename and keep saving filenames in one array, in one
+separate text file
+3) Next time when user again executes the code ask user to provide filename. Check if file 
+already exists, if yes then ask user to give new filename. Write simple text ‘You are awesome’ in every
+new file
+4) Share the code by pushing it on GitHub repo
+
