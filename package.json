@@ -1,0 +1,15 @@
+{
+  "name": "fs_yargs_assignment",
+  "version": "1.0.0",
+  "description": "Assignment1 to test node fs module using yargs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "node app.js"
+  },
+  "author": "Pradeep Metpally",
+  "license": "ISC",
+  "dependencies": {
+    "yargs": "^17.2.1"
+  }
+}
